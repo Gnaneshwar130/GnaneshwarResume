@@ -46,4 +46,12 @@
                                         <li><a href="./public/hobbies.html">My Hobbies</a></li>
                                         <li><a href="./public/contact.html">Contact Me</a></li>
                     </ul>
+<h1>Contact Me</h1>
+<h5>Phn no: +91 6301935178</h5>
+<h5>Email: gundeboinagnaneshwar@gmail.com</h5>
+<h5>Address:
+  10-7/22<br/>
+  Shivaij Nagar, Nakrekal <br />
+  Dist: Nalgonda<br />
+</h5>
 </body>
