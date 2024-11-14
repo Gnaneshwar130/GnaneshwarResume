@@ -1,6 +1,6 @@
 <body>
                     <left><h1>Gundeboina Gnaneshwar</h1>
-                    <img src="./photos/WhatsApp Image 2023-11-08 at 9.34.29 PM.jpeg" height="200" alt="Resume"/>
+                    <img src="WhatsApp Image 2023-11-08 at 9.34.29 PM.jpeg" height="200" alt="Resume"/>
                     <h2>Summary</h2>
                     <p>I am a hardworking and dedicated individual with experience in customer service and administration.</p>
 <hr/>
